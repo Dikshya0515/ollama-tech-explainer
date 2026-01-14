@@ -39,7 +39,7 @@ pip install ollama jupyter
 
 ### Step 3: Clone This Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-question-answering-tool.git
+git clone https://github.com/Dikshya0515/ai-question-answering-tool.git
 cd ai-question-answering-tool
 ```
 
@@ -136,7 +136,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/Dikshya0515)
 
 ## 🙏 Acknowledgments
 
